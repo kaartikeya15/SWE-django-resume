@@ -16,7 +16,7 @@ cd SWE-django-resume
 ```
 ### 3. Setting up a Virtual Environment (Optional but recommended)
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/Scripts/activate
 ```
 
