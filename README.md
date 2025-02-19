@@ -12,7 +12,7 @@ Welcome to my Digital Resume web app that converts my resume/CV to an HTML page 
 ### 2. Cloning the Repository
 ```bash
 git clone https://github.com/kaartikeya15/SWE-django-resume.git
-cd CV
+cd cv
 ```
 ### 3. Setting up a Virtual Environment (Optional but recommended)
 ```bash
